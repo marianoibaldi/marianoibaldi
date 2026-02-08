@@ -1,4 +1,12 @@
-## Hi there 👋
+## 👋 Hi there, I’m Mariano Ibaldi / Hola , soy Mariano Ibaldi
+
+Geologist by training, programmer by curiosity, and problem solver by nature.
+I use R, Python, and GIS tools to model the subsurface, analyze data, and build reproducible workflows.
+Here you’ll find projects related to geosciences, automation, data analysis, and a few experimental ideas.
+
+Geólogo de formación, programador por curiosidad y solucionador de problemas por naturaleza.
+Uso R, Python y herramientas GIS para modelar el subsuelo, analizar datos y construir flujos de trabajo reproducibles.
+En este perfil vas a encontrar proyectos de geociencias, automatización, análisis y algunas ideas experimentales.
 
 <!--
 **marianoibaldi/marianoibaldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
