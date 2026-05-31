@@ -5,7 +5,7 @@ I use R, Python, and GIS tools to model the subsurface, analyze data, and build 
 Here you’ll find projects related to geosciences, automation, data analysis, and a few experimental ideas.
 
 Geólogo de formación, programador por curiosidad y solucionador de problemas por naturaleza.
-Uso R, Python y herramientas GIS para modelar el subsuelo, analizar datos y construir flujos de trabajo reproducibles.
+Uso R, Python y herramientas SIG para modelar el subsuelo, analizar datos y construir flujos de trabajo reproducibles.
 En este perfil vas a encontrar proyectos de geociencias, automatización, análisis y algunas ideas experimentales.
 
 <!--
